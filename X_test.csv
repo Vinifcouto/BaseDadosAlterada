@@ -1,0 +1,17 @@
+ID_Cliente,Idade,Profissão,Salário,Gênero_Feminino,Gênero_Masculino,Estado_Civil_Casado(a),Estado_Civil_Divorciado(a),Estado_Civil_Solteiro(a),Estado_Civil_Viúvo(a)
+44,49,Advogado,2185.32,1,0,1,0,0,0
+1,62,Professor,2667.59,0,1,0,0,1,0
+46,41,Professor,2876.07,0,1,0,0,0,1
+19,64,Advogado,3485.65,0,1,0,0,0,1
+15,62,Professor,2667.59,0,1,0,0,1,0
+100,33,Advogado,3199.57,0,1,1,0,0,0
+41,19,Médico,1224.44,0,1,0,1,0,0
+6,27,Professor,3227.85,0,1,1,0,0,0
+67,53,Engenheiro,4246.78,0,1,1,0,0,0
+86,58,Médico,2869.75,0,1,1,0,0,0
+81,24,Professor,2968.73,0,1,1,0,0,0
+31,18,Médico,3361.9,0,1,0,0,1,0
+94,39,Advogado,2797.28,0,1,0,0,1,0
+72,45,Engenheiro,3607.84,0,1,0,1,0,0
+26,27,Programador,4828.51,0,1,0,0,1,0
+61,60,Programador,1434.95,1,0,0,0,0,1
